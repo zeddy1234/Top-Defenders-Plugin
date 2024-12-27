@@ -1,0 +1,86 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"        "{green}[Top Defenders]"
+	}
+
+	//---------------[ Top Defenders (Hud) ]---------------//
+	"Hud Header"
+	{
+		"en"        "===== Top Defenders ====="
+	}
+
+	"Hud Rank Text"
+	{
+		// 1: Rank number, 2: Name, 3: Damage done, 4: Hits
+		"#format"   "{1:d},{2:N},{3:d},{4:d}"
+		"en"        "{1}. {2} - <font color='#F62817'>{3} DMG</font> - {4} hits"
+	}
+
+	"Zombie Stats Header"
+	{
+		"en"        "===== The Best Zombies ====="
+	}
+
+	"Zombie Rank Hud"
+	{
+		// 1: Rank number, 2: Name, 3: Damage Taken, 4: Infects
+		"#format"   "{1:d},{2:N},{3:d},{4:d}"
+		"en"        "{1}. {2} - <font color='#F62817'>{3} DMG</font> - {4} infects"
+	}
+
+	"No Defenders 1"
+	{
+		"en"        "<font color='#FF00FF'>Have you considered picking up your guns and shooting zombies?</font>"
+	}
+
+	"No Defenders 2"
+	{
+		"en"        "<font color='#FF00FF'>Less doorhugging! More Defending!</font>"
+	}
+
+	"No Defenders 3"
+	{
+		"en"        "<font color='#FF00FF'>FYI: Hold mouse 1 to shoot zombies...</font>"
+	}
+
+	"No Defenders 4"
+	{
+		"en"        "<font color='#FF00FF'>Either you guys suck at aiming or y'all doorhugging... probably both</font>"
+	}
+
+	"Shit Zombies 1"
+	{
+		"en"        "<font color='#FF00FF'>I think most of the zombies were sleeping...</font>"
+	}
+
+	"Shit Zombies 2"
+	{
+		"en"        "<font color='#FF00FF'>Zombies, try holding W next time</font>"
+	}
+
+	"Shit Zombies 3"
+	{
+		"en"        "<font color='#FF00FF'>Zombies were AFK...</font>"
+	}
+
+	"Shit Zombies 4"
+	{
+		"en"        "<font color='#FF00FF'>Hey zombies! You suck! Try bhopping or moving...</font>"
+	}
+
+	"TDRank"
+	{
+		// 1: Rank number, 2: Name, 3: Damage done, 4: Hits
+		"#format"   "{1:d},{2:N},{3:d},{4:d}"
+		"en"        "{default}Rank {1} - {2} {default}=> {red}{3} {default}DMG ({red}{4} {default}hits)"
+	}
+
+	"Client Not Found"
+	{
+		// 1: Searched up ranking/index
+		"#format"   "{1:d}"
+		"en"        "{default}No client found at rank {1}"
+	}
+}
