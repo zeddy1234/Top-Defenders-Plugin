@@ -47,7 +47,7 @@ ConVar g_cvUpdate; // Update rate
 public Plugin myinfo =
 {
 	name        = "Top Defenders",
-	author      = "koen",
+	author      = "koen, ZeddY^",
 	description = "",
 	version     = "",
 	url         = "https://github.com/notkoen"
