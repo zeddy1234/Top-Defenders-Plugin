@@ -1,9 +1,9 @@
 
 # Top Defenders
 
-Top Defenders plugin used on Zeddy currently.
+Top Defenders plugin used on Zeddy Gaming.
 
-I decided to open source this as CSGO is coming to a close soon, and figured open sourcing this would be in the best interest for the future developement of CS2. I plan to port this plugin to CS2 once a modding environment is finally decided on.
+
 
 > [!NOTE]
 > Use Kxnrl's [CSGO-HtmlHud](https://github.com/Kxnrl/CSGO-HtmlHud) plugin as a replacement for `UIManager`.
